@@ -1,0 +1,15 @@
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/CasePlugin.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/commands/AdminCaseCommand.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/helper/ChatHelper.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/helper/GUIHelper.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/helper/ItemBuilder.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/inventory/CrateAnimationInventory.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/inventory/CrateEditInventory.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/inventory/CrateMainInventory.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/inventory/CrateOpenInventory.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/listener/CrateListener.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/listener/GUIListener.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/manager/AnimationManager.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/manager/CrateManager.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/manager/RateLimitManager.java
+/Users/pawelmalanich/Downloads/Simple-Case/src/main/java/pl/polardev/scase/model/Crate.java
